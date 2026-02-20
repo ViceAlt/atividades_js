@@ -4,9 +4,20 @@ body{
 }
 
 .calc{
-    align-items: center;
+    position: relative;
+    justify-content: center;
     text-align: center;
-    top: 50vh;
-    left: 100vh
-
+    left: 50px;
+    top: 100px;
+    
 }
+
+button{
+    width: 100px;
+    height: 50px;
+    font-size: larger;
+}
+
+
+
+
