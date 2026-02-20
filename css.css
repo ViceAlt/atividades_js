@@ -1,0 +1,12 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.calc{
+    align-items: center;
+    text-align: center;
+    top: 50vh;
+    left: 100vh
+
+}
